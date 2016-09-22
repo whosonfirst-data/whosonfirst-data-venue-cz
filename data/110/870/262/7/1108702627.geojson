@@ -1,0 +1,78 @@
+{
+  "id": 1108702627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.4427504,50.0728141,14.4427504,50.0728141",
+    "geom:latitude":50.072814,
+    "geom:longitude":14.44275,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kon\u011bvova 141/2660",
+    "sg:city":"Prague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"130 83",
+    "sg:tags":[
+        "photos",
+        "microstock",
+        "pictures",
+        "photography"
+    ],
+    "sg:website":"http://www.pixmac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900991,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CimfxCqLvPub3SjZ5UYQG_50.072814_14.442750@1308163240"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"db7335a6a60df938a64c03e3f56b926d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900991,
+            "region_id":85682437,
+            "venue_id":1108702627
+        }
+    ],
+    "wof:id":1108702627,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Pixmac",
+    "wof:parent_id":85900991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photos",
+        "microstock",
+        "pictures",
+        "photography"
+    ]
+},
+  "bbox": [
+    14.4427504,
+    50.0728141,
+    14.4427504,
+    50.0728141
+],
+  "geometry": {"coordinates":[14.4427504,50.0728141],"type":"Point"}
+}

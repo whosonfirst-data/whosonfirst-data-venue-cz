@@ -1,0 +1,80 @@
+{
+  "id": 1108702615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.5692822,49.2259017,16.5692822,49.2259017",
+    "geom:latitude":49.225902,
+    "geom:longitude":16.569282,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"U vodarny 2",
+    "sg:city":"Brno",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"616 00",
+    "sg:tags":[
+        "ajax",
+        "builder",
+        "sitecreator",
+        "websitecreator",
+        "sitebuilder",
+        "website-builder",
+        "free-website-creation"
+    ],
+    "sg:website":"http://www.webnode.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633105,
+        85900777,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12DkLJZEA0ju4UqMZYGViL_49.225902_16.569282@1308163237"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"64c39a5c0e7f4d2f48ed48e87515dfec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900777,
+            "region_id":85682423,
+            "venue_id":1108702615
+        }
+    ],
+    "wof:id":1108702615,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Webnode",
+    "wof:parent_id":85900777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ajax",
+        "builder",
+        "sitecreator",
+        "websitecreator",
+        "sitebuilder",
+        "website-builder",
+        "free-website-creation"
+    ]
+},
+  "bbox": [
+    16.5692822,
+    49.2259017,
+    16.5692822,
+    49.2259017
+],
+  "geometry": {"coordinates":[16.5692822,49.2259017],"type":"Point"}
+}

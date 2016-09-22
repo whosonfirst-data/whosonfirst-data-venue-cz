@@ -1,0 +1,82 @@
+{
+  "id": 1108702633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.4246231,50.1026674,14.4246231,50.1026674",
+    "geom:latitude":50.102667,
+    "geom:longitude":14.424623,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"U akademie 172/4",
+    "sg:city":"Praha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"17002 ",
+    "sg:tags":[
+        "toolbars",
+        "add-ons",
+        "extensions",
+        "safari",
+        "macos",
+        "plug-ins"
+    ],
+    "sg:website":"http://safaritoolbars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900835,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lFRbH3bX1XSFjF08mo1SF_50.102667_14.424623@1308163241"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"550cccbed270324cff49ae6df7f81ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900835,
+            "region_id":85682437,
+            "venue_id":1108702633
+        }
+    ],
+    "wof:id":1108702633,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Macte!",
+    "wof:parent_id":85900835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toolbars",
+        "add-ons",
+        "extensions",
+        "safari",
+        "macos",
+        "plug-ins"
+    ]
+},
+  "bbox": [
+    14.4246231,
+    50.1026674,
+    14.4246231,
+    50.1026674
+],
+  "geometry": {"coordinates":[14.4246231,50.1026674],"type":"Point"}
+}

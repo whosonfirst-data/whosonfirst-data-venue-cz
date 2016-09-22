@@ -1,0 +1,82 @@
+{
+  "id": 1108702631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.359931,50.0526024,14.359931,50.0526024",
+    "geom:latitude":50.052602,
+    "geom:longitude":14.359931,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"Butovick\u00e1 21/68 Praha 5, Jinonice",
+    "sg:city":"Prague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"15800",
+    "sg:tags":[
+        "java",
+        "j2ee",
+        "access-management",
+        "security",
+        "rbac",
+        "ldap"
+    ],
+    "sg:website":"http://www.jresearchsoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900549,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zNR1DWJz7xqDeE2xExTTM_50.052602_14.359931@1308163241"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"84972bda057686cad2d7505539a08ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900549,
+            "region_id":85682437,
+            "venue_id":1108702631
+        }
+    ],
+    "wof:id":1108702631,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Jresearch Software",
+    "wof:parent_id":85900549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "java",
+        "j2ee",
+        "access-management",
+        "security",
+        "rbac",
+        "ldap"
+    ]
+},
+  "bbox": [
+    14.359931,
+    50.0526024,
+    14.359931,
+    50.0526024
+],
+  "geometry": {"coordinates":[14.359931,50.0526024],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1108702637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.5403234,50.6850903,14.5403234,50.6850903",
+    "geom:latitude":50.68509,
+    "geom:longitude":14.540323,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"U Synagogy 3001",
+    "sg:city":"\u010cesk\u00e1 L\u00edpa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"470 01",
+    "sg:tags":[
+        "wap",
+        "mobi",
+        "mobile",
+        "iphone",
+        "android",
+        "g1",
+        "mobile-ads",
+        "mobile-audience",
+        "mobile-advertising",
+        "mobile-marketing",
+        "mobile-conversion",
+        "mobile-version",
+        "mobile-pages"
+    ],
+    "sg:website":"http://www.micromedia.cz/en/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907639,
+        102191581,
+        85633105,
+        101823001,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UaeMkzONHa4xqKk2wqOR6_50.685090_14.540323@1308163241"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"16bf1767eef80c182e7749827a0fe384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101823001,
+            "neighbourhood_id":85907639,
+            "region_id":85682473,
+            "venue_id":1108702637
+        }
+    ],
+    "wof:id":1108702637,
+    "wof:lastmodified":1474570872,
+    "wof:name":"MicroMedia",
+    "wof:parent_id":85907639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wap",
+        "mobi",
+        "mobile",
+        "iphone",
+        "android",
+        "g1",
+        "mobile-ads",
+        "mobile-audience",
+        "mobile-advertising",
+        "mobile-marketing",
+        "mobile-conversion",
+        "mobile-version",
+        "mobile-pages"
+    ]
+},
+  "bbox": [
+    14.5403234,
+    50.6850903,
+    14.5403234,
+    50.6850903
+],
+  "geometry": {"coordinates":[14.5403234,50.6850903],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108702619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.4496124,50.0809075,14.4496124,50.0809075",
+    "geom:latitude":50.080908,
+    "geom:longitude":14.449612,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pospisilova 5",
+    "sg:city":"Prague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"13000",
+    "sg:tags":[
+        "agentka",
+        "jobs",
+        "central",
+        "eastern",
+        "europe",
+        "recruitment",
+        "internet",
+        "hr"
+    ],
+    "sg:website":"http://www.agentka.cz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907661,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DNnD91czvUjfoPJPhBZWe_50.080908_14.449612@1308163239"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"5d42ae041f72862f18c3c9e38171f1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85907661,
+            "region_id":85682437,
+            "venue_id":1108702619
+        }
+    ],
+    "wof:id":1108702619,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Agentka",
+    "wof:parent_id":85907661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agentka",
+        "jobs",
+        "central",
+        "eastern",
+        "europe",
+        "recruitment",
+        "internet",
+        "hr"
+    ]
+},
+  "bbox": [
+    14.4496124,
+    50.0809075,
+    14.4496124,
+    50.0809075
+],
+  "geometry": {"coordinates":[14.4496124,50.0809075],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108702643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.449612,50.080907,14.449612,50.080907",
+    "geom:latitude":50.080907,
+    "geom:longitude":14.449612,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pospisilova 5",
+    "sg:city":"Prague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"13000",
+    "sg:tags":[
+        "skillr",
+        "skills",
+        "job",
+        "work",
+        "recruitment",
+        "widget",
+        "platform",
+        "search"
+    ],
+    "sg:website":"http://www.skillr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907661,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aSdKBSzhAgfTiOemvSOUv_50.080907_14.449612@1308163238"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570873,
+    "wof:geomhash":"4157801cc37fd4e054f280373e29e93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85907661,
+            "region_id":85682437,
+            "venue_id":1108702643
+        }
+    ],
+    "wof:id":1108702643,
+    "wof:lastmodified":1474570873,
+    "wof:name":"Skillr",
+    "wof:parent_id":85907661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skillr",
+        "skills",
+        "job",
+        "work",
+        "recruitment",
+        "widget",
+        "platform",
+        "search"
+    ]
+},
+  "bbox": [
+    14.449612,
+    50.080907,
+    14.449612,
+    50.080907
+],
+  "geometry": {"coordinates":[14.449612,50.080907],"type":"Point"}
+}

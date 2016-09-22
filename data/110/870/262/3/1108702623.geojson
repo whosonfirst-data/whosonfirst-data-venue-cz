@@ -1,0 +1,94 @@
+{
+  "id": 1108702623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.5120024,50.0528269,14.5120024,50.0528269",
+    "geom:latitude":50.052827,
+    "geom:longitude":14.512002,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mattioliho 3274/7",
+    "sg:city":"Prague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10600",
+    "sg:tags":[
+        "xmpp",
+        "jabber",
+        "chat",
+        "free",
+        "support",
+        "selfcare",
+        "customer-care",
+        "saas",
+        "live-chat",
+        "live-support",
+        "cloud-computing",
+        "cloud"
+    ],
+    "sg:website":"http://www.plupper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900855,
+        102191581,
+        85633105,
+        101748113,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_070CxtupsiAjbVQ05KzLBZ_50.052827_14.512002@1308163240"
+    },
+    "wof:country":"CZ",
+    "wof:created":1474570872,
+    "wof:geomhash":"3c8716bdfff029518acf0be4adbe6dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900855,
+            "region_id":85682437,
+            "venue_id":1108702623
+        }
+    ],
+    "wof:id":1108702623,
+    "wof:lastmodified":1474570872,
+    "wof:name":"Plupper",
+    "wof:parent_id":85900855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "xmpp",
+        "jabber",
+        "chat",
+        "free",
+        "support",
+        "selfcare",
+        "customer-care",
+        "saas",
+        "live-chat",
+        "live-support",
+        "cloud-computing",
+        "cloud"
+    ]
+},
+  "bbox": [
+    14.5120024,
+    50.0528269,
+    14.5120024,
+    50.0528269
+],
+  "geometry": {"coordinates":[14.5120024,50.0528269],"type":"Point"}
+}
